@@ -36,7 +36,7 @@ This area can be valuable to help you look things up in future.
 - Reason 1
 - Reason 2
 
-- [ ] John Clark was alerted to these changes and sent a link to this PR
+- [ ] Alerted concerned parties to these changes and sent a link to this PR
 
 **Potential Issues With this Change**
 
