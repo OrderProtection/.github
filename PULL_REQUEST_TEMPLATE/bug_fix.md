@@ -1,4 +1,4 @@
-### Ticket
+### Ticket 🎟️
 [[ENG-$$$$]](linearlink)
 
 ### Description of Bug 🪲

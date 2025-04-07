@@ -4,7 +4,7 @@
 
 ### Notes 📘
 
-### Screenshots
+### Screenshots 📸
 
 <!--
 I'm not kidding when I say that this next part is required
