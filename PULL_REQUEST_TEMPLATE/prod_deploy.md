@@ -2,7 +2,7 @@
 
 ### Ticket 🎫
 
-[[ENG-$$$$]](linkToProductionDeployTicket)
+[[ENG-XXXX]](linkToProductionDeployTicket)
 
 ### Included Pull Requests ⛙
 

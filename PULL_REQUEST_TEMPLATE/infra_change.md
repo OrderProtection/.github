@@ -1,6 +1,6 @@
 ### Ticket 🎟️
 
-[[ENG-$$$$]](linearlink)
+[[ENG-XXXX]](linearlink)
 
 ### Description of Infrastructure Change 👽
 
